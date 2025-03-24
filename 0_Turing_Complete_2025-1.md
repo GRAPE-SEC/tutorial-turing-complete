@@ -23,9 +23,8 @@
 
 [Turing Complete : 소개](01_Turing_Complete_소개.md)
 
-[필요한 프로그램 설치하기 - LevelHead Turing Complete](Turing%20Complete%202025-1%201bc80ae0869c81e18913e4a34eb8c9b4/%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20-%20LevelHead%20Turing%20Co%201bc80ae0869c81a883a2ca9312a3a907.md)
+[필요한 프로그램 설치하기 - LevelHead Turing Complete](/01_필요한_프로그램_설치하기_-_LevelHead_Turing_Co.md)
 
-[Turing Complete Executable file (Windows)](Turing%20Complete%202025-1%201bc80ae0869c81e18913e4a34eb8c9b4/Turing%20Complete%20Executable%20file%20(Windows)%201bc80ae0869c81c486a2d4119aab951c.md)
 
 
 
@@ -38,7 +37,7 @@
 
 ---
 
-[0. 게임 플레이하기](Turing%20Complete%202025-1%201bc80ae0869c81e18913e4a34eb8c9b4/0%20%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%20%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%201bc80ae0869c8107b122fc3c22d50b51.md)
+[0. 게임 플레이하기](/0_게임_플레이하기.md)
 
 [1. CRUDE AWAKENING (마주하다)](Turing%20Complete%202025-1%201bc80ae0869c81e18913e4a34eb8c9b4/1%20CRUDE%20AWAKENING%20(%E1%84%86%E1%85%A1%E1%84%8C%E1%85%AE%E1%84%92%E1%85%A1%E1%84%83%E1%85%A1)%201bc80ae0869c8129ad8ae0637d85afb9.md)
 
