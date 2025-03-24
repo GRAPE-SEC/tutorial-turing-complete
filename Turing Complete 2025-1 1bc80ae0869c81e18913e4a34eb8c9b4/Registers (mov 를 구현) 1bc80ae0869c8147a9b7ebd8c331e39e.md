@@ -9,7 +9,7 @@
 
 컴퓨터에서, 레지스터끼리 저장된 데이터를 복사하는 것을 이동시키다(move)를 따서 mov 라고 함
 
-</aside>
+
 
 ![Untitled](Registers%20(mov%20%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB)%201bc80ae0869c8147a9b7ebd8c331e39e/Untitled.png)
 

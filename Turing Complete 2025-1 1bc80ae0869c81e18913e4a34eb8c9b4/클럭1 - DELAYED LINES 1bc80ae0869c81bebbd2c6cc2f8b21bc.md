@@ -10,7 +10,7 @@
 최신 컴퓨터는 그냥 수정 발진기(Quartz Crystal Oscillator) 같은것을 쓰므로 그것이 반영되도록 설명을 추가해야한다
 → “도화선” 비유가 적절한듯? 이걸 반영하자
 
-</aside>
+
 
 ![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A81%20-%20DELAYED%20LINES%201bc80ae0869c81bebbd2c6cc2f8b21bc/Untitled.png)
 

@@ -11,7 +11,7 @@ Nor 도 Nand 와 마찬가지로, Nor 만으로 나머지 게이트들을 몽땅
 
 Nor, Nand 게이트는 나머지 다른 논리게이트를 모두 만들어낼 수 있어서, “범용 논리게이트(Universal Gate) 라고 불린다. 
 
-</aside>
+
 
 OR 게이트는 Not 게이트를 NAND 의 input 으로 집어넣어서 만들 수 있다.
 

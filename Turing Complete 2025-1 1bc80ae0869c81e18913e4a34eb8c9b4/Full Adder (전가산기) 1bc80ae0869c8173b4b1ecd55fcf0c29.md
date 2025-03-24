@@ -5,7 +5,7 @@
 
 덧셈을 수행하는 회로, 즉 전가산기
 
-</aside>
+
 
 ![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image.png)
 

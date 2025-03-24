@@ -5,7 +5,7 @@
 
 입력의 개수를 세는 회로를 만든다
 
-</aside>
+
 
 # 비트 세기
 
@@ -28,7 +28,7 @@
 
 물론 저는 카르노맵을 극한으로 써서 논리게이트를 아주 많이 줄였습니다. 이것은 저의 모범답안~
 
-</aside>
+
 
 ## 1) output1 카르노맵
 
@@ -41,7 +41,7 @@
 
 이 모양은, A xor B xor C xor D 이다.
 
-</aside>
+
 
 ![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%203.png)
 
@@ -52,7 +52,7 @@
 
 꿀팁은, output1,2,3 에서 서로 겹치는 부분이 많도록 “잘” 카르노맵을 묶으면 논리게이트를 재활용할 수 있어서 게이트 절약으로 조금 더 간단한 회로를 만들 수 있다는 점. 사실 걍 해도된다
 
-</aside>
+
 
 ![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%204.png)
 

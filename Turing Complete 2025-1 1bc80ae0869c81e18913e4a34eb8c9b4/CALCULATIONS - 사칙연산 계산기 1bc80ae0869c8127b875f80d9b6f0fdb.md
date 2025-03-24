@@ -29,7 +29,7 @@ Reg1 와 Reg2 의 값을 더한 값을 Reg3 에 저장하도록 바꾸는 것이
 
 Input 을 Register 에 저장하는 명령을 구현하는 것을 IMMEDIATE VALUE 에서 다룬다. (바로 다음 스테이지)
 
-</aside>
+
 
 ![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image.png)
 
@@ -38,7 +38,7 @@ Input 을 Register 에 저장하는 명령을 구현하는 것을 IMMEDIATE VALU
 
 실제 컴퓨터에서 return value 를 register esi, edi, eax 레지스터에 저장하는 것을 구현하는 것이다.
 
-</aside>
+
 
 # Step1) Registers
 
@@ -99,7 +99,7 @@ CALCULATION 이 on 일때만 출력에 연결한다.
 
 CALCULATION 이외의 다른 동작을 할 때도, ALU 는 계산을 하고 있다. 다만, 다른 동작(IMMEDIATE, COPY, CONDITION) 을 수행할 때는 계산결과가 저장되지 않는다
 
-</aside>
+
 
 ![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%207.png)
 
@@ -116,7 +116,7 @@ CALCULATIONS 레벨에 등장하는 Register 는 하나의 핀이 더 추가되�
 
 (아니 이럴거면 Register 만들때 그냥 만들게 시키지…)
 
-</aside>
+
 
 ![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%209.png)
 
@@ -147,7 +147,7 @@ Load 핀과 상관없이 항상 저장된 값을 다음 tick 에 Load 하는 “
 
 왜 처음에 Register 설계할때 이 핀을 추가해놓지 않고 나중에 뒷북을 치는건가?
 
-</aside>
+
 
 TMI 인데, 실제로, 구버전의 turing complete 에는 이 회로를 custom circuit 으로 직접 만들어서 썼어야 됐었던 듯 하다. (아래 링크는 과거 어떤 유저가 올린 질문으로, 이를 뒷받침하는 증거이다)
 

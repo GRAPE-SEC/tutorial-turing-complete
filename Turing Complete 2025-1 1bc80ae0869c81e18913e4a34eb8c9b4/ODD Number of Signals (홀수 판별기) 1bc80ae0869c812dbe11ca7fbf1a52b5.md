@@ -5,7 +5,7 @@
 
 이 스테이지를 깨면 드디어, 와이어에 색깔을 칠할 수 있습니
 
-</aside>
+
 
 # Odd Number
 
@@ -28,7 +28,7 @@ Odd Number 는 영어로 **홀수** 라는 뜻이다.
 
 네모로 묶이는게 없다!! 뭉탱이로 만들지 못한다는거…
 
-</aside>
+
 
 ![image.png](ODD%20Number%20of%20Signals%20(%E1%84%92%E1%85%A9%E1%86%AF%E1%84%89%E1%85%AE%20%E1%84%91%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%80%E1%85%B5)%201bc80ae0869c812dbe11ca7fbf1a52b5/image%203.png)
 
@@ -43,7 +43,7 @@ Odd Number 는 영어로 **홀수** 라는 뜻이다.
 
 이거 설명 누락된 듯. 나중에 적어두기
 
-</aside>
+
 
 ![image.png](ODD%20Number%20of%20Signals%20(%E1%84%92%E1%85%A9%E1%86%AF%E1%84%89%E1%85%AE%20%E1%84%91%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%80%E1%85%B5)%201bc80ae0869c812dbe11ca7fbf1a52b5/image%205.png)
 

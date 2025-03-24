@@ -10,7 +10,7 @@ AND 가 인간에게 NAND 보다 더 친숙하다.
 엄마가 좋아 아빠가 좋아?
 → 둘다 좋다 ( I love Dad and I love Mom)
 
-</aside>
+
 
 NAND 로 AND 를 만들긴 하지만, NAND 는 Not + And 라는 뜻이다.
 

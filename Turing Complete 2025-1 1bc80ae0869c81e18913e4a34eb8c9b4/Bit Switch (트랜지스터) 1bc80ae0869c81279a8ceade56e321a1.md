@@ -21,7 +21,7 @@ Switching Device 는 계전기, 트랜지스터, 진공관 등이 있는데,
 
 그래서 다른 Swtich 의 출력이 또다른 Switch 입력과 연결되어도 괜찮다. 
 
-</aside>
+
 
 ![image.png](Bit%20Switch%20(%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5)%201bc80ae0869c81279a8ceade56e321a1/image.png)
 

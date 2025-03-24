@@ -67,4 +67,3 @@ bit add 와 byte add / bit not 과 byte not 은 다른 것임!!!
 
 ![image.png](SIGNED%20NEGATOR%201bc80ae0869c810787c6e1bc4589f73d/image.png)
 
-</aside>

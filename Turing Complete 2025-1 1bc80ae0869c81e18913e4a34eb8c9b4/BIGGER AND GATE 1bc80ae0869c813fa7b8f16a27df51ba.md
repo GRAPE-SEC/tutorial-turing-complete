@@ -17,7 +17,7 @@
 
 즉, **결합법칙**입니다.
 
-</aside>
+
 
 ![image.png](BIGGER%20AND%20GATE%201bc80ae0869c813fa7b8f16a27df51ba/image.png)
 

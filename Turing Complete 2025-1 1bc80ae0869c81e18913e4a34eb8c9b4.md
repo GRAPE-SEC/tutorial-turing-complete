@@ -7,14 +7,14 @@
 
 관리자 : 전재호(1386)(88sprout@gmail.com)
 
-</aside>
+
 
 
 💡
 
 논리회로로 작동하는 디지털 컴퓨터를 직접 만들어보는 시리즈
 
-</aside>
+
 
 
 💡
@@ -27,7 +27,7 @@
 
 [Turing Complete Executable file (Windows)](Turing%20Complete%202025-1%201bc80ae0869c81e18913e4a34eb8c9b4/Turing%20Complete%20Executable%20file%20(Windows)%201bc80ae0869c81c486a2d4119aab951c.md)
 
-</aside>
+
 
 
 🚗
@@ -208,4 +208,3 @@
 
 [TURING COMPLETE (작동하는 컴퓨터 시스템)](Turing%20Complete%202025-1%201bc80ae0869c81e18913e4a34eb8c9b4/TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2.md)
 
-</aside>

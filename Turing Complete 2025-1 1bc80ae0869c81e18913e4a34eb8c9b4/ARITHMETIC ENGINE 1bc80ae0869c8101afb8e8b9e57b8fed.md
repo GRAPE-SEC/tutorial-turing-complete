@@ -9,7 +9,7 @@ Logic Engine 은 OR, NAND, AND 같은 논리게이트를 “코드” 로 선택
 
 Arithmetic Engine 은 더하기 빼기도 선택할 수 있는 기능을 추가한 것이다.
 
-</aside>
+
 
 즉, Logic Engine 에 Full Adder 를 합친거다.
 
