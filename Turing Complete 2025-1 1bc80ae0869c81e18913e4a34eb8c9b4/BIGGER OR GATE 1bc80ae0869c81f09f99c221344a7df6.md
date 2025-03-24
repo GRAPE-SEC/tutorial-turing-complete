@@ -12,7 +12,7 @@
 
 ![image.png](BIGGER%20OR%20GATE%201bc80ae0869c81f09f99c221344a7df6/image.png)
 
-<aside>
+
 💡
 
 입력값이 몇개건, 어떻게 OR 로 연결하건, 무조건 N 개에 대한 OR 이 됩니다.

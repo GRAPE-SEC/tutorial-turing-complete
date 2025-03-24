@@ -4,7 +4,7 @@
 
 instruction input 이 이제는 없다고 한다.
 
-<aside>
+
 💡
 
 instruction input 은 어떤 동작을 할지 선택하는 비트이다.

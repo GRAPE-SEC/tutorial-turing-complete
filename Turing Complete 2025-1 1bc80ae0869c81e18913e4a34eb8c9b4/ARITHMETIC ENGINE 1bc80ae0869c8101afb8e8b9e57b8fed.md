@@ -2,7 +2,7 @@
 
 # Arithmetic Engine (산술 연산기)
 
-<aside>
+
 💡
 
 Logic Engine 은 OR, NAND, AND 같은 논리게이트를 “코드” 로 선택할 수 있게 해주는 회로이다.

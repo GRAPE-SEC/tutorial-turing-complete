@@ -24,14 +24,14 @@ Andorid, IOS 는 지원하지 않습니다
 
 ## 다른 프로그램으로 진행하기
 
-<aside>
+
 💡
 
 2만원이 없는 사람만 읽으시오
 
 </aside>
 
-<aside>
+
 💡
 
 LevelHead Turing Complete 가 아닌 다른 프로그램을 쓰는 경우, 질문을 해결해주는 것이 몹시 곤란하므로, 질문을 받지 않습니다

@@ -56,7 +56,7 @@ Byte ADD (Full Adder) 를 얻었으니 쓰면 된다.
 
 ![Untitled](SIGNED%20NEGATOR%201bc80ae0869c810787c6e1bc4589f73d/Untitled%201.png)
 
-<aside>
+
 💡
 
 **<주의>**

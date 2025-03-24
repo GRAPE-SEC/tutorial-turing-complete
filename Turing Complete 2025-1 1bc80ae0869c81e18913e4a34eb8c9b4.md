@@ -1,6 +1,6 @@
 # Turing Complete 2025-1
 
-<aside>
+
 🛠 **버전**
 
 **release** : 2024-09-18
@@ -9,14 +9,14 @@
 
 </aside>
 
-<aside>
+
 💡
 
 논리회로로 작동하는 디지털 컴퓨터를 직접 만들어보는 시리즈
 
 </aside>
 
-<aside>
+
 💡
 
 **소개**
@@ -29,7 +29,7 @@
 
 </aside>
 
-<aside>
+
 🚗
 
 **LevelHead Turing Complete**

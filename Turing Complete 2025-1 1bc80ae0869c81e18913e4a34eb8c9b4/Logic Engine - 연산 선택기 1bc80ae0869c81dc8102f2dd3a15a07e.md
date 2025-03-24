@@ -2,7 +2,7 @@
 
 # Logic Engine
 
-<aside>
+
 💡
 
 그 동안

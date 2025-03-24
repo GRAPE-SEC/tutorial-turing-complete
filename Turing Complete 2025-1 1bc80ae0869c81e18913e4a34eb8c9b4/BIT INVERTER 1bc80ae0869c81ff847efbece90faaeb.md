@@ -6,7 +6,7 @@
 
 ![Untitled](BIT%20INVERTER%201bc80ae0869c81ff847efbece90faaeb/Untitled.png)
 
-<aside>
+
 💡
 
 2024-09-12 수정

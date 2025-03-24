@@ -1,6 +1,6 @@
 # Turing Complete Executable file (Windows)
 
-<aside>
+
 💡
 
 게임 개발사에게 힘이 될 수 있도록, 30,000 원(20달러, 탄핵 이후 변동있음(오름)) 이 있는 사람은 [https://store.steampowered.com/app/1444480/Turing_Complete/](https://store.steampowered.com/app/1444480/Turing_Complete/) 에서 직접 구입하기 바란다.
