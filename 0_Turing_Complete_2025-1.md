@@ -59,10 +59,10 @@
 
 ---
 
-[1_Turing_Complete_Sandbox](/chap04_기능을_가진_회로_만들기/1_Turing_Complete_Sandbox.md)  
-[2_개념_카르노맵_SOP](/chap04_기능을_가진_회로_만들기/2_개념_카르노맵_SOP.md)  
+[1_Turing_Complete_Sandbox](/chap04_기능을_가진_회로_만들기/1_Turing_Complete_Sandbox_샌드박스.md)  
+[2_개념_카르노맵_SOP](/chap04_기능을_가진_회로_만들기/2_개념_카르노맵_SOP(뭉탱이).md)  
 [3_Double_Trouble](/chap04_기능을_가진_회로_만들기/3_Double_Trouble.md)  
-[4_ODD_Number_of_Signals](/chap04_기능을_가진_회로_만들기/4_ODD_Number_of_Signals.md)  
+[4_ODD_Number_of_Signals](/chap04_기능을_가진_회로_만들기/4_ODD_Number_of_Signals_(홀수_판별기).md)  
 [5_카르노맵_XOR](/chap04_기능을_가진_회로_만들기/5_카르노맵_XOR.md)  
 [6_COUNTING_SIGNALS](/chap04_기능을_가진_회로_만들기/6_COUNTING_SIGNALS.md)  
 [7_Double_The_Number](/chap04_기능을_가진_회로_만들기/7_Double_The_Number.md)
@@ -72,75 +72,75 @@
 ---
 
 [1_Circular_Dependency](/chap05_컴퓨터의_심장박동-클럭/1_Circular_Dependency.md)  
-[2_클럭1_DELAYED_LINES](/chap05_컴퓨터의_심장박동-클럭/2_클럭1_DELAYED_LINES.md)  
-[3_클럭2_ODD_TICKS](/chap05_컴퓨터의_심장박동-클럭/3_클럭2_ODD_TICKS.md)  
+[2_클럭1_DELAYED_LINES](/chap05_컴퓨터의_심장박동-클럭/2_클럭1_-_DELAYED_LINES.md)  
+[3_클럭2_ODD_TICKS](/chap05_컴퓨터의_심장박동-클럭/3_클럭2_-_ODD_TICKS.md)  
 [4_BIT_INVERTER](/chap05_컴퓨터의_심장박동-클럭/4_BIT_INVERTER.md)
 
 ### 6. 전기신호로 사칙연산하기 - ALU
 
 ---
 
-[1_Half_Adder](/chap06_전기신호로_사칙연산하기-ALU/1_Half_Adder.md)  
-[2_Full_Adder](/chap06_전기신호로_사칙연산하기-ALU/2_Full_Adder.md)  
-[3_Bit_Switch](/chap06_전기신호로_사칙연산하기-ALU/3_Bit_Switch.md)  
+[1_Half_Adder](/chap06_전기신호로_사칙연산하기-ALU/1_Half_Adder_(반가산기).md)  
+[2_Full_Adder](/chap06_전기신호로_사칙연산하기-ALU/2_Full_Adder_(전가산기).md)  
+[3_Bit_Switch](/chap06_전기신호로_사칙연산하기-ALU/3_Bit_Switch_(트랜지스터).md)  
 [4_개념_bit_와_Byte](/chap06_전기신호로_사칙연산하기-ALU/4_개념_bit_와_Byte.md)  
 [5_BYTE_OR](/chap06_전기신호로_사칙연산하기-ALU/5_BYTE_OR.md)  
 [6_Byte_Not](/chap06_전기신호로_사칙연산하기-ALU/6_Byte_Not.md)  
-[7_ADDING_BYTES](/chap06_전기신호로_사칙연산하기-ALU/7_ADDING_BYTES.md)
+[7_ADDING_BYTES](/chap06_전기신호로_사칙연산하기-ALU/7_ADDING_BYTES_(Byte_용_전가산기).md)
 
 ### 7. 컴퓨터에서의 음수 - 2’s com 표현법
 
 ---
 
-[1_2s_Complement](/chap07_컴퓨터에서의_음수-2s_com_표현법/1_2s_Complement.md)  
-[2_Negative_Numbers](/chap07_컴퓨터에서의_음수-2s_com_표현법/2_Negative_Numbers.md)  
-[3_SIGNED_NEGATOR](/chap07_컴퓨터에서의_음수-2s_com_표현법/3_SIGNED_NEGATOR.md)
+[1_2s_Complement](/chap07_컴퓨터에서의_음수-2's_com_표현법/1_2’s_Complement(2의_보수법).md)  
+[2_Negative_Numbers](/chap07_컴퓨터에서의_음수-2's_com_표현법/2_Negative_Numbers.md)  
+[3_SIGNED_NEGATOR](/chap07_컴퓨터에서의_음수-2's_com_표현법/3_SIGNED_NEGATOR.md)
 
 ### 8. 원하는 기능을 토글하는 장치 만들기 - MUX
 
 ---
 
-[1_INPUT_SELECTOR](/chap08_원하는_기능을_토글하는_장치만들기-MUX/1_INPUT_SELECTOR.md)  
+[1_INPUT_SELECTOR](/chap08_원하는_기능을_토글하는_장치만들기-MUX/1_INPUT_SELECTOR(MUX).md)  
 [2_THE_BUS](/chap08_원하는_기능을_토글하는_장치만들기-MUX/2_THE_BUS.md)
 
 ### 9. 기억 장치 만들기 - Register
 
 ---
 
-[1_개념_순차회로와_래치](/chap09_기억_장치만들기-Register/1_개념_순차회로와_래치.md)  
-[2_SAVING_GRACEFULLY](/chap09_기억_장치만들기-Register/2_SAVING_GRACEFULLY.md)  
-[3_SAVING_BYTES](/chap09_기억_장치만들기-Register/3_SAVING_BYTES.md)
+[1_개념_순차회로와_래치](/chap09_기억_장치_만들기-Register/1_개념_순차회로와_래치.md)  
+[2_SAVING_GRACEFULLY](/chap09_기억_장치_만들기-Register/2_SAVING_GRACEFULLY.md)  
+[3_SAVING_BYTES](/chap09_기억_장치_만들기-Register/3_SAVING_BYTES.md)
 
 ### 10. Byte 를 Binary 로 바꾸기 - Decoder
 
 ---
 
-[1_1-Bit_DECODER](/chap10_Byte를_Binary로_바꾸기-Decoder/1_1-Bit_DECODER.md)  
-[2_3-Bit_DECODER](/chap10_Byte를_Binary로_바꾸기-Decoder/2_3-Bit_DECODER.md)
+[1_1-Bit_DECODER](/chap10_Byte_를_Binary_로_바꾸기-Decoder/1_1-Bit_DECODER.md)  
+[2_3-Bit_DECODER](/chap10_Byte_를_Binary_로_바꾸기-Decoder/2_3-Bit_DECODER.md)
 
 ### 11. 부품 조립하기
 
 ---
 
-[1_Logic_Engine](/chap11_부품_조립하기/1_Logic_Engine.md)  
-[2_LITTLE_BOX_ROM](/chap11_부품_조립하기/2_LITTLE_BOX_ROM.md)  
-[3_COUNTER](/chap11_부품_조립하기/3_COUNTER.md)
+[1_Logic_Engine](/chap11_부품_조립하기/1_Logic_Engine_-_연산_선택기.md)  
+[2_LITTLE_BOX_ROM](/chap11_부품_조립하기/2_LITTLE_BOX_-_롬(ROM).md)  
+[3_COUNTER](/chap11_부품_조립하기/3_COUNTER_-_클럭.md)
 
 ### 12. 폰 노이만 아키텍쳐
 
 ---
 
 [1_ARITHMETIC_ENGINE](/chap12_폰_노이만_아키텍쳐/1_ARITHMETIC_ENGINE.md)  
-[2_Registers](/chap12_폰_노이만_아키텍쳐/2_Registers.md)  
+[2_Registers](/chap12_폰_노이만_아키텍쳐/2_Registers_(mov_를_구현).md)  
 [3_Component_Factory](/chap12_폰_노이만_아키텍쳐/3_Component_Factory.md)
 
 ### 13. 작동하는 컴퓨터
 
 ---
 
-[1_Instruction_Decoder](/chap13_작동하는_컴퓨터/1_Instruction_Decoder.md)  
-[2_CALCULATIONS](/chap13_작동하는_컴퓨터/2_CALCULATIONS.md)  
-[3_Conditions](/chap13_작동하는_컴퓨터/3_Conditions.md)  
-[4_Program](/chap13_작동하는_컴퓨터/4_Program.md)  
-[5_IMMEDIATE_VALUES](/chap13_작동하는_컴퓨터/5_IMMEDIATE_VALUES.md)  
-[6_TURING_COMPLETE](/chap13_작동하는_컴퓨터/6_TURING_COMPLETE.md)
+[1_Instruction_Decoder](/chap13_작동하는_컴퓨터/1_Instruction_Decoder_-_명령어_해석기.md)  
+[2_CALCULATIONS](/chap13_작동하는_컴퓨터/2_CALCULATIONS_-_사칙연산_계산기.md)  
+[3_Conditions](/chap13_작동하는_컴퓨터/3_Conditions_-_조건분기_구현.md)  
+[4_Program](/chap13_작동하는_컴퓨터/4_Program_(프로그램,_저장가능한_코드).md)  
+[5_IMMEDIATE_VALUES](/chap13_작동하는_컴퓨터/5_IMMEDIATE_VALUES_(즉치값).md)  
+[6_TURING_COMPLETE](/chap13_작동하는_컴퓨터/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템).md)
