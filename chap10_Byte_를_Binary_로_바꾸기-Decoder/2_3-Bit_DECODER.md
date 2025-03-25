@@ -11,17 +11,17 @@
 
 예시) 2번 켜짐
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image.png)
+![image.png](/images/2_3-Bit_DECODER/image.png)
 
 예시) 6번 켜짐
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%201.png)
+![image.png](/images/2_3-Bit_DECODER/image_1.png)
 
 ### 출력이 1개보다 많으면 안된다
 
 그러면 ? 라고 뜬다.
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%202.png)
+![image.png](/images/2_3-Bit_DECODER/image_2.png)
 
 # 회로 만들기
 
@@ -41,15 +41,15 @@
 
 아래와 같이, 3개의 입력을 각각 1-bit decoder 에 연결해준다.
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%203.png)
+![image.png](/images/2_3-Bit_DECODER/image_3.png)
 
 그러면, “켜져있음” 과 “꺼져있음” 을 각각 bit 로 분리할 수 있게 된다.
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%204.png)
+![image.png](/images/2_3-Bit_DECODER/image_4.png)
 
 이제,
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%205.png)
+![image.png](/images/2_3-Bit_DECODER/image_5.png)
 
 사실 이렇게 not 을 써도 되긴하다.
 
@@ -57,14 +57,14 @@
 
 Decoder 를 쓰는게, 설계하는 입장에서 보기 편하다.
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%206.png)
+![image.png](/images/2_3-Bit_DECODER/image_6.png)
 
 6 출력에 대해서도 만들어보면 이러하다.
 
-![image.png](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/image%207.png)
+![image.png](/images/2_3-Bit_DECODER/image_7.png)
 
 이제 이걸 1,2,3,4,5,6,7,8 에 대해서 만들어주면 된다
 
 # 최종 정답
 
-![Untitled](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29/Untitled.png)
+![Untitled](/images/2_3-Bit_DECODER/Untitled.png)

@@ -12,7 +12,7 @@
 
 
 
-![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A81%20-%20DELAYED%20LINES%201bc80ae0869c81bebbd2c6cc2f8b21bc/Untitled.png)
+![Untitled](/images/2_클럭1_-_DELAYED_LINES/Untitled.png)
 
 이 소자에 전기를 연결한다음 실행시켜서 결과를 분석해보면 다음과 같은 것을 알 수 있다.
 
@@ -20,7 +20,7 @@
 - 1 이 입력되면 초록색으로 변한다(일종의 충전?)
 - 초록색으로 변한 상태에서 바로 다음 시간에  1 을 출력한다음 빨간색으로 바뀐다.
 
-![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A81%20-%20DELAYED%20LINES%201bc80ae0869c81bebbd2c6cc2f8b21bc/Untitled%201.png)
+![Untitled](/images/2_클럭1_-_DELAYED_LINES/Untitled_1.png)
 
 즉, 이 부품은 한칸의 시간만큼 신호를 지연시킨다.
 

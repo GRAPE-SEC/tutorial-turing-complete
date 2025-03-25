@@ -21,7 +21,7 @@ A + B = N
 
 여태껏 다룬 값은 다 양수였다. 0 보다 크다는 말이다.
 
-![image.png](2%E2%80%99s%20Complement(2%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A9%E1%84%89%E1%85%AE%E1%84%87%E1%85%A5%E1%86%B8)%201bc80ae0869c8153a420c4e352ddd215/image.png)
+![image.png](/images/1_2’s_Complement(2의_보수법)/2’s_Complement(2의_보수법)%201bc80ae0869c8153a420c4e352ddd215/image.png)
 
 ```
 사과가 3개이면, 전기신호 켜짐(1) 이 3개
@@ -66,7 +66,7 @@ A + B = N
 - 전감산기가 필요없고, 전가산기로 뺄셈을 할 수 있습니다.
 - 두개의 0 문제가 없어집니다. 그걸 처리하는 회로도 필요없습니다
 
-![image.png](2%E2%80%99s%20Complement(2%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A9%E1%84%89%E1%85%AE%E1%84%87%E1%85%A5%E1%86%B8)%201bc80ae0869c8153a420c4e352ddd215/image%201.png)
+![image.png](/images/1_2’s_Complement(2의_보수법)/2’s_Complement(2의_보수법)%201bc80ae0869c8153a420c4e352ddd215/image%201.png)
 
 노이만 센세가 생각해낸 아이디어는 간단한데,
 

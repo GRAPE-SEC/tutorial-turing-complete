@@ -8,4 +8,4 @@ OR 은 결합법칙이 성립한다.
 A OR B OR C OR D OR ...
 ```
 
-![Untitled](BYTE%20OR%201bc80ae0869c81d8b951d5fe38918f11/Untitled.png)
+![Untitled](/images/5_BYTE_OR/Untitled.png)

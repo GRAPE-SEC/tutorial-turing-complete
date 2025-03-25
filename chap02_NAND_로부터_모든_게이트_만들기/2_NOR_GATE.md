@@ -2,7 +2,7 @@
 
 NOR 게이트를 만들어보자.
 
-![image.png](5%20NOR%20GATE%201bc80ae0869c81de9e8ce984ce4a388e/image.png)
+![image.png](/images/2_NOR_GATE/image.png)
 
 Nor 도 Nand 와 마찬가지로, Nor 만으로 나머지 게이트들을 몽땅 만들 수 있다
 
@@ -71,14 +71,14 @@ output 의 모양을 만들려면, 우선,
 
 진리표의 위아래를 뒤집으려면 A 와 B 에 Not 을 달아주면 된다.
 
-![image.png](5%20NOR%20GATE%201bc80ae0869c81de9e8ce984ce4a388e/image%201.png)
+![image.png](/images/2_NOR_GATE/image_1.png)
 
 # 각각을 부정하기
 
 모든 값을 반대로 청개구리처럼 말하게 하면 된다.
 
-![image.png](5%20NOR%20GATE%201bc80ae0869c81de9e8ce984ce4a388e/image%202.png)
+![image.png](/images/2_NOR_GATE/image_2.png)
 
 # 성공
 
-![image.png](5%20NOR%20GATE%201bc80ae0869c81de9e8ce984ce4a388e/image%203.png)
+![image.png](/images/2_NOR_GATE/image_3.png)

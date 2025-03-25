@@ -4,7 +4,7 @@
 
 이제 여기에 Conditions 를 달기만 하면 완성이다.
 
-![image.png](IMMEDIATE%20VALUES%20(%E1%84%8C%E1%85%B3%E1%86%A8%E1%84%8E%E1%85%B5%E1%84%80%E1%85%A1%E1%86%B9)%201bc80ae0869c81a49503f46769b2835d/image%2014.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/IMMEDIATE_VALUES_(즉치값)%201bc80ae0869c81a49503f46769b2835d/image%2014.png)
 
 # Condition
 
@@ -15,11 +15,11 @@
 - 입력으로 Condition 코드와 Input 값을 넣는다.
 - Condition 으로 다양한 비교를 선택할 수 있고, 그 결과가 True/False 로 Result 핀으로 출력된다
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image.png)
 
 선택할 수 있는 Condition 코드는 아래와 같다.
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%201.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%201.png)
 
 - 우리는 Condition Code 로 Program 에 있는 코드를 쓸거고,
 - 비교할 값인 Input 으로는 REG3 에 있는 값을 써야 한다. (레벨의 요구사항임)
@@ -27,9 +27,9 @@
 
 이렇게 연결하면 된다.
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%202.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%202.png)
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%203.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%203.png)
 
 # 분기(Branch)
 
@@ -57,53 +57,53 @@ Address 를 중간에 바꾸면, 순서대로가 아니라 Program 에 적힌 �
 
 이것을 **점프(Jump)** 라고 부른다.
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%204.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%204.png)
 
 Program 에 달린 Counter 를 조작하면, 현재 코드를 실행중인 Address 를 바꿀 수 있다. 그럼 그곳으로 점프된다.
 
 - Increment/Overwrite 핀을 켠 상태로,
 - Overwrite Value 에 바꿀 Address 값을 넣으면 된다.
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%205.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%205.png)
 
 점프하려면, 어디로 점프할지 지정해야한다.
 
 이때 REG 0 에 이 값을 저장하도록 한다. (레벨 로그에 나와있음)
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%206.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%206.png)
 
 # 분기 회로 만들기
 
 우선 REG 0 에 저장된 값이 Counter 의 Overwrite Value 로 입력되도록 선을 연결한다.
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%207.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%207.png)
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%208.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%208.png)
 
 이제, Increment / Overwrite 핀이 켜지면  코드가 이 값으로 점프될 것 이다.
 
 그리고 OPCODE 가 Condition 이면서 Cond 부품이 비교한 결과가 True 일때 Increment/Overwrite 핀이 켜지도록 연결한다
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%209.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%209.png)
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%2010.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%2010.png)
 
 # 전체 정답
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%2011.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%2011.png)
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%2012.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%2012.png)
 
 # Turing Complete
 
 작동하는 컴퓨터를 완성했다!
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%2013.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%2013.png)
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%2014.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%2014.png)
 
 이 컴퓨터는 Turing Complete (튜링 완전) 하다.
 
 무슨 말이냐면, **컴퓨터이기 위한 최소한의 요건을 만족했다** 라는 뜻임
 
-![image.png](TURING%20COMPLETE%20(%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)%201bc80ae0869c8141acc5e7248c797fe2/image%2015.png)
+![image.png](/images/6_TURING_COMPLETE_(작동하는_컴퓨터_시스템)/TURING_COMPLETE_(작동하는_컴퓨터_시스템)%201bc80ae0869c8141acc5e7248c797fe2/image%2015.png)

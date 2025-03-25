@@ -19,19 +19,19 @@ or, nand, and 를 선택해서 연산해주는 계산기를 만들면 된다.
 
 각 연산자에 대응되는 코드가 있다. (or=00, nand=01, and=11)
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled.png)
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%201.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_1.png)
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%202.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_2.png)
 
 사용할 수 있는 8bit logic 부품이 or 과 not 만 있으니, 모든 논리연산을 or 과 not 으로 변환해야한다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%203.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_3.png)
 
 우선 or 는 or 부품이 있으니까 그냥 쓰면 된다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%204.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_4.png)
 
 # nand 구현
 
@@ -50,7 +50,7 @@ Tick 탭을 이용하여 테스트해보면 nand 출력이 제대로 나오는�
 
 (nand 는 입력이 1,1 일때만 0 출력)
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%205.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_5.png)
 
 # and 구현
 
@@ -60,7 +60,7 @@ AB = [[A]+[B]]
 
 즉 아래와 같이 구성하면 된다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%206.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_6.png)
 
 nor 는 
 
@@ -68,13 +68,13 @@ nor 는
 
 00 일때만 1 이 나오면 된다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%207.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_7.png)
 
 이제 각 연산을 선택할 수 있게 선택기 입력을 구현하면 된다.
 
 4개의 회로를 각각 구현해도 되지만, 잘 보면 겹치는 부분이 많다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%208.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_8.png)
 
 # Input Selector(Mux)
 
@@ -86,7 +86,7 @@ nor 는
 
 선택기(MUX) 를 앞에 달면 **선택**에 따라 **입력**을 전환할 수 있다.
 
-![image.png](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/image.png)
+![image.png](/images/1_Logic_Engine_-_연산_선택기/image.png)
 
 예를 들어, ON OFF 를 붙여서 테스트해보면,
 
@@ -94,13 +94,13 @@ MUX 의 선택 입력이 1 이면 아랫쪽 입력을 출력으로 내보낸다.
 
 선택 입력이 0 이면 위쪽 입력을 출력으로 내보낸다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%209.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_9.png)
 
 OFF 를 달거나, 아무것도 안달면 선택입력에 0 이 들어가면서 윗쪽 입력을 출력으로 연결한다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%2010.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_10.png)
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%2011.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_11.png)
 
 ## or 와 mux 연결
 
@@ -108,7 +108,7 @@ OFF 를 달거나, 아무것도 안달면 선택입력에 0 이 들어가면서 
 
 아무것도 안 입력하면 이 흐름을 따라가서 or 이 연산될 것이다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%2012.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_12.png)
 
 ## nand 와 mux 연결
 
@@ -118,7 +118,7 @@ OFF 를 달거나, 아무것도 안달면 선택입력에 0 이 들어가면서 
 
 not 입력을 달고 mux 신호가 1일때만 수행하도록 연결한다.
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%2013.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_13.png)
 
 ## nor 와 mux 연결
 
@@ -126,7 +126,7 @@ not 입력을 달고 mux 신호가 1일때만 수행하도록 연결한다.
 
 [A+B]
 
-![Untitled](Logic%20Engine%20-%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%80%E1%85%B5%201bc80ae0869c81dc8102f2dd3a15a07e/Untitled%2014.png)
+![Untitled](/images/1_Logic_Engine_-_연산_선택기/Untitled_14.png)
 
 ## and 와 mux 연결
 

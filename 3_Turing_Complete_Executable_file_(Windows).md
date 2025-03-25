@@ -7,6 +7,6 @@
 
 
 
-![image.png](Turing%20Complete%20Executable%20file%20(Windows)%201bc80ae0869c81c486a2d4119aab951c/image.png)
+![image.png](/images/3_Turing_Complete_Executable_file_(Windows)/Turing_Complete_Executable_file_(Windows)%201bc80ae0869c81c486a2d4119aab951c/image.png)
 
 [Turing Complete.zip](https://drive.google.com/file/d/1XqqdIxMXMYDXxLdWG1zrRNMVbwKi_AoP/view?usp=sharing)

@@ -6,4 +6,4 @@
 
 이진법이 뭔지 아는지 테스트하는 스테이지이다.
 
-![image.png](Binary%20Racer%201bc80ae0869c8176abd6f53084cd5964/image.png)
+![image.png](/images/10_Binary_Racer/image.png)

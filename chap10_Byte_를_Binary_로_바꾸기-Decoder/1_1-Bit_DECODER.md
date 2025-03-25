@@ -27,7 +27,7 @@
 
 병렬로 하나만 not 을 해서 연결하면 된다.
 
-![Untitled](1-Bit%20DECODER%201bc80ae0869c81c1a30dd6a5e3ee488a/Untitled.png)
+![Untitled](/images/1_1-Bit_DECODER/Untitled.png)
 
 # 이 회로의 쓰임새
 
@@ -38,19 +38,19 @@
 
 두개 만 표현할 수 있다
 
-![image.png](1-Bit%20DECODER%201bc80ae0869c81c1a30dd6a5e3ee488a/image.png)
+![image.png](/images/1_1-Bit_DECODER/image.png)
 
-![image.png](1-Bit%20DECODER%201bc80ae0869c81c1a30dd6a5e3ee488a/image%201.png)
+![image.png](/images/1_1-Bit_DECODER/image_1.png)
 
 이 회로는 이 입력을 분리해서,
 
 - 입력이 0 일때는 10 을 출력해라
 
-![image.png](1-Bit%20DECODER%201bc80ae0869c81c1a30dd6a5e3ee488a/image%202.png)
+![image.png](/images/1_1-Bit_DECODER/image_2.png)
 
 - 입력이 1 이면 01 을 출력해라
 
-![image.png](1-Bit%20DECODER%201bc80ae0869c81c1a30dd6a5e3ee488a/image%203.png)
+![image.png](/images/1_1-Bit_DECODER/image_3.png)
 
 로 바꿔준다.
 
@@ -62,6 +62,6 @@
 
 - 내가 꺼져있음을 알리는 신호가 추가되었다고 볼 수 있다
 
-![image.png](1-Bit%20DECODER%201bc80ae0869c81c1a30dd6a5e3ee488a/image%204.png)
+![image.png](/images/1_1-Bit_DECODER/image_4.png)
 
 이게 알쏭달쏭한 소리처럼 들릴텐데, 3-Bit Decoder 를 만들어보면 무슨 말인지 이해하게된다

@@ -10,7 +10,7 @@
 
 즉, 3개의 입력값에 대한 OR 가 된다.
 
-![image.png](BIGGER%20OR%20GATE%201bc80ae0869c81f09f99c221344a7df6/image.png)
+![image.png](/images/07_BIGGER_OR_GATE/image.png)
 
 
 💡
@@ -25,4 +25,4 @@
 
 잘 보면, 입력이 세개 있는 OR 게이트이다.
 
-![image.png](BIGGER%20OR%20GATE%201bc80ae0869c81f09f99c221344a7df6/image%201.png)
+![image.png](/images/07_BIGGER_OR_GATE/image_1.png)

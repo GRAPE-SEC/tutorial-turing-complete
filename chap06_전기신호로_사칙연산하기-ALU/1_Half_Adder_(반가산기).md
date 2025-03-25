@@ -62,13 +62,13 @@
 
 
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image.png)
 
 **Half Adder(반가산기)** 는 아주 대표적인 다출력 회로이다.
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image%201.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image%201.png)
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image%202.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image%202.png)
 
 # 출력1 : SUM
 
@@ -81,9 +81,9 @@
 - 1 과 0 을 더하면 1 이다
 - 1 과 1 을 더하면 0 이다 (자리올림이 발생하지만, 출력2 에서 처리한다)
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image%203.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image%203.png)
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image%204.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image%204.png)
 
 # 출력2 : CARRY
 
@@ -93,6 +93,6 @@
 
 - 1 과 1 이 입력되었을 때만 1 이고, 나머지는 0 이다.
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image%205.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image%205.png)
 
-![image.png](Half%20Adder%20(%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81948678e5b2e93867e3/image%206.png)
+![image.png](/images/1_Half_Adder_(반가산기)/Half_Adder_(반가산기)%201bc80ae0869c81948678e5b2e93867e3/image%206.png)

@@ -11,7 +11,7 @@
 
 이진수로 표현된걸 펼쳐서 output1,2,3 으로 만들자.
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image.png)
+![image.png](/images/6_COUNTING_SIGNALS/image.png)
 
 # 4변수 다출력 카르노맵 그리기
 
@@ -32,9 +32,9 @@
 
 ## 1) output1 카르노맵
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%201.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_1.png)
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%202.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_2.png)
 
 
 💡
@@ -43,7 +43,7 @@
 
 
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%203.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_3.png)
 
 ## 2) Output2 카르노맵
 
@@ -54,18 +54,18 @@
 
 
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%204.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_4.png)
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%205.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_5.png)
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%206.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_6.png)
 
 ```
 빨간색 + 초록색은
 [AB]CD + AB[CD] 이므로, AB xor CD 임
 ```
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%207.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_7.png)
 
 ```
 파란색은
@@ -83,32 +83,32 @@
 
 빨간색은 AB xor CD
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%208.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_8.png)
 
 이렇게 만들면, output1 에서 썼던 xor 을 **재활용 할 수 있다.**
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%209.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_9.png)
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%2010.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_10.png)
 
 이제 Desired output 4 하나만 붙이면 되시겠다
 
 ## 3) Output3 카르노맵
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%2011.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_11.png)
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%2012.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_12.png)
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%2013.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_13.png)
 
 걍 A and B and C and D, 즉 ABCD 다.
 
 output2 에서 썼던 AND 를 재활용 할 수 있다.
 
-![image.png](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/image%2014.png)
+![image.png](/images/6_COUNTING_SIGNALS/image_14.png)
 
 # 비하인드
 
 열심히 종이에 써서 했다는거… 여러분도 한번 해보세요
 
-![Untitled](COUNTING%20SIGNALS%201bc80ae0869c8160b6d8d58bef1eb3b3/Untitled.png)
+![Untitled](/images/6_COUNTING_SIGNALS/Untitled.png)

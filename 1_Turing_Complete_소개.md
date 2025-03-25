@@ -8,7 +8,7 @@
 
 우리집에는 이렇게 생긴 컴퓨터가 없는데요
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image.png)
+![image.png](/images/1_Turing_Complete_소개/image.png)
 
 일반 사람들이 “컴퓨터” 라고 부르는 것은 보통 “데스크톱 컴퓨터”를 말합니다. PC 방에 가면 볼 수 있습니다. 옛날에는 가정마다 필수품이였는데…
 
@@ -16,27 +16,27 @@
 
 스마트폰은 컴퓨터입니다
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%201.png)
+![image.png](/images/1_Turing_Complete_소개/image_1.png)
 
 이것도 컴퓨터입니다
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%202.png)
+![image.png](/images/1_Turing_Complete_소개/image_2.png)
 
 결제 단말도 컴퓨터입니다.
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%203.png)
+![image.png](/images/1_Turing_Complete_소개/image_3.png)
 
 게임기도 컴퓨터입니다.
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%204.png)
+![image.png](/images/1_Turing_Complete_소개/image_4.png)
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%205.png)
+![image.png](/images/1_Turing_Complete_소개/image_5.png)
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%206.png)
+![image.png](/images/1_Turing_Complete_소개/image_6.png)
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%207.png)
+![image.png](/images/1_Turing_Complete_소개/image_7.png)
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%208.png)
+![image.png](/images/1_Turing_Complete_소개/image_8.png)
 
 아니 그러면 전기로 작동하면 다 컴퓨터라는 말입니까?
 
@@ -44,9 +44,9 @@
 
 이건 컴퓨터가 아닙니다.
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%209.png)
+![image.png](/images/1_Turing_Complete_소개/image_9.png)
 
-![image.png](Turing%20Complete%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201bc80ae0869c81bf95c3de8eb024fe5e/image%2010.png)
+![image.png](/images/1_Turing_Complete_소개/image_10.png)
 
 아니 대체 기준이 뭔데
 

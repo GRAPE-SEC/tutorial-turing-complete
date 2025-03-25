@@ -1,6 +1,6 @@
 # 3. NOT GATE
 
-![image.png](3%20NOT%20GATE%201bc80ae0869c81ef82b2c1b321c9bbe2/image.png)
+![image.png](/images/4_NOT_GATE/image.png)
 
 앞으로도 계속 Desired output 과 Current output 이 아래에 표시될 건데요
 
@@ -53,11 +53,11 @@ NOT 게이트는 input 1 과 input 2 가 똑같도록 같은 선에 연결하면
 
 전기가 줄어들지 않냐고요? 맞습니다. 근데 컴퓨터 만들때 얼마나 전기를 나뉘어 먹힐지 계산하고 설계하기 때문에 괜찮습니다.
 
-![image.png](3%20NOT%20GATE%201bc80ae0869c81ef82b2c1b321c9bbe2/image%201.png)
+![image.png](/images/4_NOT_GATE/image_1.png)
 
 input 을 쪼개서 input 1 과 input 2 에 집어넣으면 스테이지 클리어입니다.
 
-![image.png](3%20NOT%20GATE%201bc80ae0869c81ef82b2c1b321c9bbe2/image.png)
+![image.png](/images/4_NOT_GATE/image.png)
 
 ## 회로 테스트하기
 
@@ -65,15 +65,15 @@ input 을 쪼개서 input 1 과 input 2 에 집어넣으면 스테이지 클리�
 
 아래 패널에 있는 Input 이 순서대로 전기신호로 입력되고, Current output 에 결과가 표시됩니다
 
-![image.png](3%20NOT%20GATE%201bc80ae0869c81ef82b2c1b321c9bbe2/image%202.png)
+![image.png](/images/4_NOT_GATE/image_2.png)
 
 Desired output 과 Current output 이 일치하면 통과되고, Level Complete 가 표시됩니다.
 
-![image.png](3%20NOT%20GATE%201bc80ae0869c81ef82b2c1b321c9bbe2/image%203.png)
+![image.png](/images/4_NOT_GATE/image_3.png)
 
 또한 NOT 게이트를 만들었으니, 다음 스테이지부터는 NAND 로 부터 만들지 않고 직접 사용할 수 있게 되었습니다.
 
-![image.png](3%20NOT%20GATE%201bc80ae0869c81ef82b2c1b321c9bbe2/image%204.png)
+![image.png](/images/4_NOT_GATE/image_4.png)
 
 Onwards 를 누르면 다음 스테이지로 이동합니다.
 

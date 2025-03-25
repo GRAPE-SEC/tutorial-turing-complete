@@ -8,7 +8,7 @@ Bit Switch 와 동일하게, 어떤 조건(세모모양)으로 어떤 입력을 
 
 각 byte switch 는 사이에 병렬로 연결한다. (어차피 두개의 입력이 동시에 활성화 되는 경우의 수는 없다)
 
-![Untitled](THE%20BUS%201bc80ae0869c8122aacbd80e4a530da5/Untitled.png)
+![Untitled](/images/2_THE_BUS/Untitled.png)
 
 # 정류작용
 
@@ -16,4 +16,4 @@ Bit Switch 와 동일하게, 어떤 조건(세모모양)으로 어떤 입력을 
 
 하지만, 가운데 연결통로로 전기가 거꾸로 흘러서 문제가 생긴다.
 
-![image.png](THE%20BUS%201bc80ae0869c8122aacbd80e4a530da5/image.png)
+![image.png](/images/2_THE_BUS/image.png)

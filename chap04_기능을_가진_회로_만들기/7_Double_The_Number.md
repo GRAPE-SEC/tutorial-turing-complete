@@ -2,7 +2,7 @@
 
 # 묻고 따블로 가!
 
-![image.png](Double%20The%20Number%201bc80ae0869c81949957e8767cc4a3d9/image.png)
+![image.png](/images/7_Double_The_Number/image.png)
 
 이진수를 두배로 바꾸는 회로를 만들면 된다.
 
@@ -14,6 +14,6 @@
 
 즉, **그냥 한칸 왼쪽으로 밀면 된다.**
 
-![image.png](Double%20The%20Number%201bc80ae0869c81949957e8767cc4a3d9/image%201.png)
+![image.png](/images/7_Double_The_Number/image_1.png)
 
-![image.png](Double%20The%20Number%201bc80ae0869c81949957e8767cc4a3d9/image%202.png)
+![image.png](/images/7_Double_The_Number/image_2.png)

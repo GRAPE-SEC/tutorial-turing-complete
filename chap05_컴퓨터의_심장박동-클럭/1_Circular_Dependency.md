@@ -16,6 +16,6 @@ Circular Dependency 는 **어떤 회로의 출력이 똑같은 회로의 입력�
 
 아무 논리 게이트나 가져와서, 출력을 입력으로 연결하면 이 스테이지가 성공한다.
 
-![image.png](Circular%20Dependency%201bc80ae0869c81e2bf73e243a82808a9/image.png)
+![image.png](/images/1_Circular_Dependency/image.png)
 
-![image.png](Circular%20Dependency%201bc80ae0869c81e2bf73e243a82808a9/image%201.png)
+![image.png](/images/1_Circular_Dependency/image_1.png)

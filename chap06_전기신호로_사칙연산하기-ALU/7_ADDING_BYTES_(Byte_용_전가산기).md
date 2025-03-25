@@ -6,7 +6,7 @@
 
 이걸 Byte 용으로 개조한다.
 
-![Untitled](ADDING%20BYTES%20(Byte%20%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81069809e7f35a7c51f1/Untitled.png)
+![Untitled](/images/7_ADDING_BYTES_(Byte_용_전가산기)/ADDING_BYTES_(Byte_용_전가산기)%201bc80ae0869c81069809e7f35a7c51f1/Untitled.png)
 
 입출력을 관찰해보면 
 
@@ -17,4 +17,4 @@
 
 전 adder 의 carry 를 adder 의 input 으로 연결하면 여러 자릿수를 가진 수를 더할 수 있을 것 같다.
 
-![Untitled](ADDING%20BYTES%20(Byte%20%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c81069809e7f35a7c51f1/Untitled%201.png)
+![Untitled](/images/7_ADDING_BYTES_(Byte_용_전가산기)/ADDING_BYTES_(Byte_용_전가산기)%201bc80ae0869c81069809e7f35a7c51f1/Untitled%201.png)

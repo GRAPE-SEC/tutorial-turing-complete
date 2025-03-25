@@ -15,9 +15,9 @@
 
 일단, xor 은 입력 두개가 **서로 다르면 1** 을 출력하는 회로이다.
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image.png)
+![image.png](/images/5_카르노맵_XOR/image.png)
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%201.png)
+![image.png](/images/5_카르노맵_XOR/image_1.png)
 
 SOP 로 묶으면,
 
@@ -48,17 +48,17 @@ A xor B
 
 오른쪽에서 왼쪽으로 떨어지는 대각선이거나,
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%201.png)
+![image.png](/images/5_카르노맵_XOR/image_1.png)
 
 0 을 사이에 두고 1 이 마주보고 있다.
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%202.png)
+![image.png](/images/5_카르노맵_XOR/image_2.png)
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%203.png)
+![image.png](/images/5_카르노맵_XOR/image_3.png)
 
 # 변수 3개를 xor 로 묶기
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%204.png)
+![image.png](/images/5_카르노맵_XOR/image_4.png)
 
 ```
 <빨간색>
@@ -80,7 +80,7 @@ A xor B xor C
 
 xnor 는 xor 을 한번 부정한건데, 진리표가 이거다.
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%205.png)
+![image.png](/images/5_카르노맵_XOR/image_5.png)
 
 # XNOR 의 SOP
 
@@ -94,11 +94,11 @@ AB + [A][B]
 
 카르노맵에서는 대각선이 xor 과 반대로 나온다.
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%206.png)
+![image.png](/images/5_카르노맵_XOR/image_6.png)
 
 또는 0을 한칸 띄우고 1이 마주보고 있다.
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%207.png)
+![image.png](/images/5_카르노맵_XOR/image_7.png)
 
 # 공식 : A xor B xor C
 
@@ -113,4 +113,4 @@ A[B]+[A]B 구조이다.
 그래서 A xor B xor C 이다.
 ```
 
-![image.png](%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%20XOR%201bc80ae0869c81a1b45fdf81c90280d2/image%208.png)
+![image.png](/images/5_카르노맵_XOR/image_8.png)

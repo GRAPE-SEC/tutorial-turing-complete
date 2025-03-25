@@ -32,7 +32,7 @@ AND 는 “둘 다” 뭐 이런 뜻인데, NAND 는 Not AND 라는 뜻입니다
 
 
 
-![NAND 회로표.jpg](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/NAND_%25ED%259A%258C%25EB%25A1%259C%25ED%2591%259C.jpg)
+![NAND 회로표.jpg](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/NAND_%25ED%259A%258C%25EB%25A1%259C%25ED%2591%259C.jpg)
 
 아니 근데 왜 AND 안배웠는데 NAND 배우냐는 생각이 들 수 있는데,
 
@@ -44,13 +44,13 @@ NAND 를 조합해서 AND 를 만들 수 있지만, AND 로는 NAND 를 못만�
 
 강한 부정은 강한 긍정이라는 말이 있죠
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image.png)
 
 Not 을 두번하면 Not 없는것도 표현할 수 있지만, Not 이 없는걸로는 Not 을 만들어낼 수 없다는것이죠
 
 나중에 AND 가 나오니까 몰라도 됩니다
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%201.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%201.png)
 
 왼쪽에 있는 버튼을 클릭해서 Input 의 전기를 바꿀수 있습니다
 
@@ -60,11 +60,11 @@ Not 을 두번하면 Not 없는것도 표현할 수 있지만, Not 이 없는걸
 
 그 결과는 시뮬레이션에 표시되는데, 잘 보면 Input 두개가 둘다 1 일때만  Output 이 0 이 되는것을 확인할 수 있습니다. 나머진 다 Output 이 1 이고요
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%202.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%202.png)
 
 그 답을 쓰면 이 스테이지는 통과입니다
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%203.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%203.png)
 
 ## 실제 세상의 논리 게이트
 
@@ -96,13 +96,13 @@ Not 을 두번하면 Not 없는것도 표현할 수 있지만, Not 이 없는걸
 
 계전기가 뭐냐면 이렇게 생긴 작은 부품입니다. 손가락이랑 같이 찍힌 사진을 구하는것이 힘들었죠
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%204.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%204.png)
 
 안에 뜯어보면 이렇게 생겼는데요
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%205.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%205.png)
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%206.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%206.png)
 
 중학교 과학시간에 배운 전자석입니다.
 
@@ -110,11 +110,11 @@ Not 을 두번하면 Not 없는것도 표현할 수 있지만, Not 이 없는걸
 
 전자석은 전기가 흐르면 자석이 되어서 쇠를 당기고, 전기가 안흐르면 쇠를 안당기는 걍 쇠가 됩니다.
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%207.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%207.png)
 
 잘 보면 Coil, 즉 구리선으로 빙빙 두른 쇳덩어리가 안에 들어가 있는걸 볼 수있죠 
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%208.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%208.png)
 
 계전기는 전자석으로 쇠를 당기고 끊는 일종의 “전기로 작동하는 전기 스위치” 입니다.
 
@@ -124,33 +124,33 @@ Not 을 두번하면 Not 없는것도 표현할 수 있지만, Not 이 없는걸
 
 삑~
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%209.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%209.png)
 
 계전기는 이 손가락을 전기로 조종할 수 있게 바꾼것입니다.
 
 전자석의 전기를 껐다 켜서 쇠를 움직이는것이지요
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2010.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2010.png)
 
 그림으로 표현하면 이건데요
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2011.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2011.png)
 
 가운데가 딸깍 딸깍 움직일 수 있게 되어있어서 전자석이 쇠를 당기면 전기가 연결되고, 전자석이 자석이 아니면 다시 스프링으로 되돌아가면서 전기가 끊어집니다 
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2012.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2012.png)
 
 저 그림에서 작대기에는 모두 실제로 전기를 연결해야합니다
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2013.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2013.png)
 
 PCB 에 연결하면 이렇게 생겼죠
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2014.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2014.png)
 
 이 릴레이를 아래와 같이 연결하면 전기로 작동하는 NAND 논리 게이트를 만들 수 있다는 사실을 아주 옛날 사람들이 알아냈습니다.
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2015.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2015.png)
 
 ## 발전
 
@@ -192,11 +192,11 @@ PCB 에 연결하면 이렇게 생겼죠
 
 그림으로는 이렇게 그리는데요
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2016.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2016.png)
 
 이렇게 생겼습니다 실제로는
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2017.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2017.png)
 
 어려워 보이지만 걍
 
@@ -204,7 +204,7 @@ PCB 에 연결하면 이렇게 생겼죠
 - 컬렉터 = 전기 들어가는거. input
 - 이미터 = 전기 나가는거. output
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2018.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2018.png)
 
 걍 계전기랑 똑같다는걸 알수있습니다. 
 
@@ -216,11 +216,11 @@ PCB 에 연결하면 이렇게 생겼죠
 
 컴퓨터에 들어가는 칩을 CPU 라고 부르는데, 2024년에 나오는 최신 CPU 에는 논리게이트가 수십억개 들어있습니다.
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2019.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2019.png)
 
 우리가 만들 컴퓨터에도 논리게이트가 한 100개 이상은 들어갈 예정입니다.
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2020.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2020.png)
 
 최신 컴퓨터랑은 쨉도 안되긴 하는군요
 
@@ -232,6 +232,6 @@ PCB 에 연결하면 이렇게 생겼죠
 
 만든걸 또 만들면 귀찮으니까 게임에서 기능으로 제공하는 것이지요
 
-![image.png](2%20NAND%20GATE%20(%E1%84%82%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3)%201bc80ae0869c813f829dfcb350d5597e/image%2021.png)
+![image.png](/images/3_NAND_GATE_(낸드)/2_NAND_GATE_(낸드)%201bc80ae0869c813f829dfcb350d5597e/image%2021.png)
 
 계속…

@@ -2,7 +2,7 @@
 
 입력이 0 만 있어서, 사실상 입력은 쓸모가 없다는걸 알 수 있다.
 
-![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A82%20-%20ODD%20TICKS%201bc80ae0869c819e8553f117ae25315a/Untitled.png)
+![Untitled](/images/3_클럭2_-_ODD_TICKS/Untitled.png)
 
 ### 순환하는 delay line
 
@@ -22,11 +22,11 @@ not 으로 반전되는 출력을 입력으로 입력하는 구조를 만들면,
 
 
 
-![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A82%20-%20ODD%20TICKS%201bc80ae0869c819e8553f117ae25315a/Untitled%201.png)
+![Untitled](/images/3_클럭2_-_ODD_TICKS/Untitled_1.png)
 
-![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A82%20-%20ODD%20TICKS%201bc80ae0869c819e8553f117ae25315a/Untitled%202.png)
+![Untitled](/images/3_클럭2_-_ODD_TICKS/Untitled_2.png)
 
-![Untitled](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A82%20-%20ODD%20TICKS%201bc80ae0869c819e8553f117ae25315a/Untitled%203.png)
+![Untitled](/images/3_클럭2_-_ODD_TICKS/Untitled_3.png)
 
 # 클럭(Clock)
 
@@ -34,4 +34,4 @@ not 으로 반전되는 출력을 입력으로 입력하는 구조를 만들면,
 
 이것은 마치, **심장박동**과 같다.
 
-![image.png](%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%86%A82%20-%20ODD%20TICKS%201bc80ae0869c819e8553f117ae25315a/image.png)
+![image.png](/images/3_클럭2_-_ODD_TICKS/image.png)

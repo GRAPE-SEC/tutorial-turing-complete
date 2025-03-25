@@ -8,11 +8,11 @@
 
 [Registers (mov 를 구현)](Registers%20(mov%20%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB)%201bc80ae0869c8147a9b7ebd8c331e39e.md) 
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled.png)
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%201.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_1.png)
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%202.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_2.png)
 
 그리고, REG 1, REG2 를 ALU 의 input 으로 하고, 결과를 REG3 에 저장해야한다.
 
@@ -31,7 +31,7 @@ Input 을 Register 에 저장하는 명령을 구현하는 것을 IMMEDIATE VALU
 
 
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image.png)
 
 
 💡
@@ -46,7 +46,7 @@ Input 을 Register 에 저장하는 명령을 구현하는 것을 IMMEDIATE VALU
 
 [Registers (mov 를 구현)](Registers%20(mov%20%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB)%201bc80ae0869c8147a9b7ebd8c331e39e.md) 
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%201.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_1.png)
 
 ## Step2) COPY 핀으로 Registers 토글할 수 있게 하기
 
@@ -56,13 +56,13 @@ COPY instruction 이 아니면 명령이 수행되지 않아야 한다.
 
 따라서 Decoder 의 Disable 핀을 끄도록 연결한다.
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%203.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_3.png)
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%204.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_4.png)
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%205.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_5.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%202.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_2.png)
 
 ## Step3) ALU 장착
 
@@ -70,23 +70,23 @@ COPY instruction 이 아니면 명령이 수행되지 않아야 한다.
 
 ALU 는 CUSTOM 폴더에 들어있다.
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%206.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_6.png)
 
 INPUTS 의 Instruction 이 ALU 의 Instruction 으로 입력되어야하고,
 
 ALU 의 Output 은 OUTPUTS 로 출력되어야한다
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%203.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_3.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%204.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_4.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%205.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_5.png)
 
 그리고 OPCODE 가 CALCULATION 일때만 출력으로 연산결과가 출력되어야한다
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%206.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_6.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%207.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_7.png)
 
 그리고 Instuction 이 CALCULATION 일때만 동작해야하므로, 
 
@@ -101,9 +101,9 @@ CALCULATION 이외의 다른 동작을 할 때도, ALU 는 계산을 하고 있�
 
 
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%207.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_7.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%208.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_8.png)
 
 ## 참고) Register Plus
 
@@ -118,29 +118,29 @@ CALCULATIONS 레벨에 등장하는 Register 는 하나의 핀이 더 추가되�
 
 
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%209.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_9.png)
 
 기존의 8 Bit Register
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%208.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_8.png)
 
 CACULATION 에 등장하는 8 Bit Register
 
 - Always output 이라는 핀이 추가로 있다.
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%209.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_9.png)
 
 기존의  Register 는  Save 핀이 on 일때 값을 저장하고, Load 핀이 on 일때만 다음 tick 에 값을 output 으로 내보낸다.
 
 아래는 SAVING BYTES 인데, Load OFF 일때는 레벨의 OUTPUT 이 Not enable 된다.
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%2010.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_10.png)
 
 따라서 추측컨데, CALCULATIONS 레벨에 등장하는 특수한 레지스터는 아래와 같은 회로를 가지고 있을 것이다.
 
 Load 핀과 상관없이 항상 저장된 값을 다음 tick 에 Load 하는 “Always Output” 핀을 만들 수 있다.
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%2011.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_11.png)
 
 
 💡
@@ -157,29 +157,29 @@ TMI 인데, 실제로, 구버전의 turing complete 에는 이 회로를 custom 
 
 ## Step4) ALU 연산을 저장할 Register 연결하기
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2010.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_10.png)
 
 - ALU 의 출력
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2011.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_11.png)
 
 실제로 이런 레지스터를 rax 또는 eax 라고 부른다. (ALU 의 a 와 같은 a, accumalator 의 약자이다)
 
 # Step5) ALU 에 계산할 Register 두개 연결하기
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2012.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_12.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2013.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_13.png)
 
 # 전체 정답
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2014.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_14.png)
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%2012.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_12.png)
 
 좀 더 예쁘게 만드려면 이렇게 만들어도 된다
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2015.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_15.png)
 
 # 버스(bus)
 
@@ -193,13 +193,13 @@ EAX 의 A 는 Accumulator 이다.
 
 이 스테이지를 깨고 나면, 기존의 8 bit Register 에 Always Output 핀이 추가된 RegistePlus 부품을 얻는다.
 
-![Untitled](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/Untitled%2013.png)
+![Untitled](/images/2_CALCULATIONS_-_사칙연산_계산기/Untitled_13.png)
 
 컴공과나 전전과에 오면 자주 보게 되는 이런 그림이 있는데, **우리가 방금 직접 손으로 만들었다.**
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2016.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_16.png)
 
-![image.png](CALCULATIONS%20-%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5%201bc80ae0869c8127b875f80d9b6f0fdb/image%2017.png)
+![image.png](/images/2_CALCULATIONS_-_사칙연산_계산기/image_17.png)
 
 # EAX 와 C언어
 

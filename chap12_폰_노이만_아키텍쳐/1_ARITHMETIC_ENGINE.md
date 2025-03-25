@@ -19,11 +19,11 @@ Arithmetic Engine 은 더하기 빼기도 선택할 수 있는 기능을 추가�
 
 문제 조건은 다음과 같다.
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled.png)
 
 Instruction 입력을 클릭해서 데이터를 바꿔보면 각 숫자에 대응되는 명령어가 표시된다.
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%201.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_1.png)
 
 OR, NAND, NOR, AND, ADD, SUB 이 6개의 논리 연산을 하는 회로를 만들고, Instruction 입력에 따라 이 회로가 동작하도록 하면 될 것 같다.
 
@@ -33,11 +33,11 @@ OR, NAND, NOR, AND, ADD, SUB 이 6개의 논리 연산을 하는 회로를 만�
 
 입력이 6개이므로, 2^3 보다 작다. 그러므로 3 Bit decoder 를 사용하면 된다.
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%202.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_2.png)
 
 3bit 범위인 0~7 까지 데이터를 Decode 할 수 있다.
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%203.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_3.png)
 
 ## OR, NAND, NOR, AND, ADD, SUB 연산 구현하기
 
@@ -47,13 +47,13 @@ OR, NAND, NOR, AND 의 논리게이트를 선을 자르지 않고, “코드” 
 
 [3-Bit DECODER](3-Bit%20DECODER%201bc80ae0869c8173b6b8cde817cdbc29.md) 
 
-![image.png](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/image.png)
+![image.png](/images/1_ARITHMETIC_ENGINE/image.png)
 
 우선 논리연산들인 OR, NAND, NOR, AND 를 먼저 구현한다.
 
 - 주의) bit 용 논리소자가 아니라, Byte 용을 써야한다.
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%204.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_4.png)
 
 ADD 와 SUB 를 구현한다.
 
@@ -62,14 +62,14 @@ ADD 와 SUB 를 구현한다.
     - 폰 노이만 센세 덕분에, 전가산기 만으로 뺄셈을 만들 수 있다. 그냥 음수를 더하면 된다
     - [2’s Complement(2의 보수법)](2%E2%80%99s%20Complement(2%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A9%E1%84%89%E1%85%AE%E1%84%87%E1%85%A5%E1%86%B8)%201bc80ae0869c8153a420c4e352ddd215.md)
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%205.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_5.png)
 
 이제 이걸 8 Bit Switch 로 Decode 된 Instruction 에 따라 선택하면 된다.
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%206.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_6.png)
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%207.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_7.png)
 
 # 최종 정답
 
-![Untitled](ARITHMETIC%20ENGINE%201bc80ae0869c8101afb8e8b9e57b8fed/Untitled%208.png)
+![Untitled](/images/1_ARITHMETIC_ENGINE/Untitled_8.png)

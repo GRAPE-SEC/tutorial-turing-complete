@@ -7,7 +7,7 @@
 
 
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image.png)
 
 # 여러자리 이진수 덧셈
 
@@ -51,7 +51,7 @@
 
 - 추가된 입력은 이전 자릿수의 Carry 이다.
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%201.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%201.png)
 
 # 직관으로 설계하기
 
@@ -64,7 +64,7 @@
 
 ### 1) SUM
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%202.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%202.png)
 
 ```
 [A][B]C + ABC = [A^B]C
@@ -73,16 +73,16 @@
 [A^B]C + (A^B)C = (A^B)^C = A^B^C
 ```
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%203.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%203.png)
 
 ### 2) CARRY
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%204.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%204.png)
 
-![Untitled](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/Untitled.png)
+![Untitled](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/Untitled.png)
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%205.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%205.png)
 
 이제 컴퓨터로 덧셈을 할 수 있게 되었다.
 
-![image.png](Full%20Adder%20(%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%206.png)
+![image.png](/images/2_Full_Adder_(전가산기)/Full_Adder_(전가산기)%201bc80ae0869c8173b4b1ecd55fcf0c29/image%206.png)

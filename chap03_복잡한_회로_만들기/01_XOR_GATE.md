@@ -15,7 +15,7 @@ XOR 게이트는 게이트 중에서 제일 특이한 게이트인데, 이 게�
 
 이 논리게이트를 NAND 로 만들면, 이렇게 생겼다.
 
-![image.png](9%20XOR%20GATE%201bc80ae0869c81e5828dd6235e6b03ca/image.png)
+![image.png](/images/01_XOR_GATE/image.png)
 
 
 💡
@@ -26,7 +26,7 @@ XOR 게이트는 게이트 중에서 제일 특이한 게이트인데, 이 게�
 
 그렇다. 이 회로부터는, **진리표만 보고 대충 만들기 어렵다**
 
-![image.png](9%20XOR%20GATE%201bc80ae0869c81e5828dd6235e6b03ca/image%201.png)
+![image.png](/images/01_XOR_GATE/image_1.png)
 
 그니까 카르노맵(Karnaugh Map) 이라는걸 배우고 다시 만들어보자.
 

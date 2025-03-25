@@ -19,6 +19,6 @@
 
 
 
-![image.png](BIGGER%20AND%20GATE%201bc80ae0869c813fa7b8f16a27df51ba/image.png)
+![image.png](/images/08_BIGGER_AND_GATE/image.png)
 
-![image.png](BIGGER%20AND%20GATE%201bc80ae0869c813fa7b8f16a27df51ba/image%201.png)
+![image.png](/images/08_BIGGER_AND_GATE/image_1.png)

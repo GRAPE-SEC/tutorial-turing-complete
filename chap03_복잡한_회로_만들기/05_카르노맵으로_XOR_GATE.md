@@ -15,17 +15,17 @@ XOR 게이트는 게이트 중에서 제일 특이한 게이트인데, 이 게�
 
 카르노맵을 그리면,
 
-![image.png](9-1%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%20XOR%20GATE%201bc80ae0869c81918e7ec6ae337d3919/image.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image.png)
 
 A and [B] 와 [A] and B 를 합친 회로라는걸 알 수 있다
 
-![image.png](9-1%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%20XOR%20GATE%201bc80ae0869c81918e7ec6ae337d3919/image%201.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image_1.png)
 
-![image.png](9-1%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%20XOR%20GATE%201bc80ae0869c81918e7ec6ae337d3919/image%202.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image_2.png)
 
-![image.png](9-1%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%20XOR%20GATE%201bc80ae0869c81918e7ec6ae337d3919/image%203.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image_3.png)
 
-![image.png](9-1%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B3%E1%84%82%E1%85%A9%E1%84%86%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%20XOR%20GATE%201bc80ae0869c81918e7ec6ae337d3919/image%204.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image_4.png)
 
 # 수학
 
@@ -46,8 +46,8 @@ XOR 게이트는
 
 # 답
 
-![image.png](9%20XOR%20GATE%201bc80ae0869c81e5828dd6235e6b03ca/image.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image.png)
 
-![image.png](9%20XOR%20GATE%201bc80ae0869c81e5828dd6235e6b03ca/image%201.png)
+![image.png](/images/05_카르노맵으로_XOR_GATE/image_1.png)
 
 계속…

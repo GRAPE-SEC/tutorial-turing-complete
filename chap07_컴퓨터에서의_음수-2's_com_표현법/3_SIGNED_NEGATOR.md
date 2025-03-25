@@ -46,7 +46,7 @@ Byte 입력을 2’s Complement 에 따라 음수로 바꾸는 회로를 만들�
 
 이 “2의보수법 음수변환 공식” 을 회로로 구현하면 된다.
 
-![Untitled](SIGNED%20NEGATOR%201bc80ae0869c810787c6e1bc4589f73d/Untitled.png)
+![Untitled](/images/3_SIGNED_NEGATOR/Untitled.png)
 
 전 챕터에서 Byte 를 전부 Not 으로 바꾸는 소자인 8bit Not,
 
@@ -54,7 +54,7 @@ Byte ADD (Full Adder) 를 얻었으니 쓰면 된다.
 
 - 모든 bit 의 not 을 한거에 1 을 더하면 된다. (Always 1 은 ON 에서 얻으면 된다.)
 
-![Untitled](SIGNED%20NEGATOR%201bc80ae0869c810787c6e1bc4589f73d/Untitled%201.png)
+![Untitled](/images/3_SIGNED_NEGATOR/Untitled_1.png)
 
 
 💡
@@ -65,5 +65,5 @@ bit add 와 byte add / bit not 과 byte not 은 다른 것임!!!
 
 폴더를 잘 봐라
 
-![image.png](SIGNED%20NEGATOR%201bc80ae0869c810787c6e1bc4589f73d/image.png)
+![image.png](/images/3_SIGNED_NEGATOR/image.png)
 

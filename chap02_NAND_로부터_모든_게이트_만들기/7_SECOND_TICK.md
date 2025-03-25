@@ -8,12 +8,12 @@
 
 방법은 아래에만 Not 을 붙이는 것이다
 
-![image.png](8%20SECOND%20TICK%201bc80ae0869c81d6a51acb25ce14af6b/image.png)
+![image.png](/images/7_SECOND_TICK/image.png)
 
 끝~
 
 진리표로 그리면 이거다
 
-![image.png](8%20SECOND%20TICK%201bc80ae0869c81d6a51acb25ce14af6b/image%201.png)
+![image.png](/images/7_SECOND_TICK/image_1.png)
 
 계속.

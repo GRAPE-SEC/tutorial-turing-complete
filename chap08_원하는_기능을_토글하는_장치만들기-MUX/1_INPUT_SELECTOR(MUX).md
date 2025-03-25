@@ -11,7 +11,7 @@
 
 스위치의 컬렉터와 이미터를 연결하고 베이스에 제어 전압을 연결하면 된다.
 
-![Untitled](INPUT%20SELECTOR(MUX)%201bc80ae0869c81408a6cd30831cf76c6/Untitled.png)
+![Untitled](/images/1_INPUT_SELECTOR(MUX)/INPUT_SELECTOR(MUX)%201bc80ae0869c81408a6cd30831cf76c6/Untitled.png)
 
 # Multiplexer, Mux
 
@@ -19,4 +19,4 @@
 
 input selector 의 실제 이름은 멀티플렉서() 이다. 줄여서 먹스
 
-![image.png](INPUT%20SELECTOR(MUX)%201bc80ae0869c81408a6cd30831cf76c6/image.png)
+![image.png](/images/1_INPUT_SELECTOR(MUX)/INPUT_SELECTOR(MUX)%201bc80ae0869c81408a6cd30831cf76c6/image.png)
