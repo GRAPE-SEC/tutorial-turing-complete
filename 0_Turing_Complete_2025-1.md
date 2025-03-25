@@ -12,8 +12,9 @@
 💡  
 **소개**
 
-[Turing Complete : 소개](01_Turing_Complete_소개.md)  
-[필요한 프로그램 설치하기 - LevelHead Turing Complete](/01_필요한_프로그램_설치하기_-_LevelHead_Turing_Co.md)
+[Turing Complete : 소개](/1_Turing_Complete_소개.md)
+[필요한 프로그램 설치하기 - LevelHead Turing Complete](/2_필요한_프로그램_설치하기_-_LevelHead_Turing_Co.md)
+[](/3_Turing_Complete_Executable_file_(Windows).md)
 
 🚗  
 **LevelHead Turing Complete**
